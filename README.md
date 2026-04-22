@@ -12,5 +12,4 @@ issue {
   BOOL is_done
   TEXT description
 }
-
 ```
